@@ -1,0 +1,31 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.out.exe
+*.app
+
+# Backup files
+*~
+*.bak
+
+# Temporary files created by editors
+*.swp
+*.swo
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
