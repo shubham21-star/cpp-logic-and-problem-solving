@@ -33,8 +33,6 @@ Each topic is neatly organized into subfolders, making it **beginner-friendly an
 | **05 - OOP** | Classes, objects, constructors, destructors, and basic inheritance. | [Open](./05-oops) |
 | **06 - STL** | Vectors, sets, maps, and other Standard Template Library features. | [Open](./06-stl) |
 | **07 - Problem Solving** | Practice problems, logical puzzles, and small exercises. | [Open](./07-problem-solving) |
-| **Easy** | Beginner-friendly coding problems to strengthen basics. | [Open](./easy) |
-| **Medium** | Intermediate problems for algorithm practice. | [Open](./medium) |
 | **Mini Projects** | Small projects combining multiple C++ concepts. | [Open](./mini-projects) |
 | **DSA Prep** | Data Structures & Algorithms preparation exercises. | [Open](./dsa-prep) |
 
