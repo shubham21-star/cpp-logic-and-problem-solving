@@ -1,28 +1,30 @@
-// # include <iostream>
-// using namespace std;
-// class calculater
-// {
-// private:
-//     int a;
-//     int b;
-//     int c;
-// public:
-//     int add()
-//     {}
-//     int sub();
-//     int mult();
-//     int div();
-//     int mod();
-// };
-// int main(){
-//     calculater ob;
-//     ob.add();
-//     ob.sub();
-//     ob.mult();
-//     ob.div();
-//     ob.mod();
-//     return;
-// }
+/*# include <iostream>
+    using namespace std;
+    class calculater
+    {
+    private:
+        int a;
+        int b;
+        int c;
+    public:
+        int add()
+        {}
+        int sub();
+        int mult();
+        int div();
+        int mod();
+    };
+    int main(){
+        calculater ob;
+        ob.add();
+        ob.sub();
+        ob.mult();
+        ob.div();
+        ob.mod();
+        return;
+}*/
+
+
 # include <iostream>
 using namespace std;
 class calculater
